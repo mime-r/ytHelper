@@ -4,7 +4,7 @@
   <br>
 </p>
 
-[![Python 2.6|2.7|3.x](https://img.shields.io/badge/python-2.6|2.7|3.x-yellow.svg)]
+![Python 3.x](https://img.shields.io/badge/python-3.x-yellow.svg)
 
 # ytHelper
 An Advanced Tool For Downloading YouTube Videos
