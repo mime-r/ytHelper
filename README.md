@@ -3,5 +3,8 @@
     <img src="ytHelper.png" width="150"/>
   <br>
 </p>
+
 # ytHelper
-A Python-CLI Application for Downloading YouTube content
+An Advanced Tool For Downloading YouTube Videos
+
+> A Python-CLI Application for Downloading YouTube content
