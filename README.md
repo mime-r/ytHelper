@@ -42,4 +42,4 @@ You have come the the right place!
 - Ability to download required modules - no need to waste time to download it yourself!
 
 ## Support me!
-- When you click on this [link](http://gestyy.com/w60j4z), I will earn a small commission.
+- When you click on this [link](https://smoner.com/support), I will earn a small commission.
