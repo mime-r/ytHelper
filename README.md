@@ -13,11 +13,11 @@ Ever wondered what is the fastest way to download YouTube Content without ads?
 You have come the the right place!
 
 ## Content
-- [Credits] (#credits)
-- [Dependencies] (#dependencies)
-- [Documentation] (#documentation)
-  - [Features] (#features)
-- [Support Me!] (#support-me)
+- [Credits](#credits)
+- [Dependencies](#dependencies)
+- [Documentation](#documentation)
+  - [Features](#features)
+- [Support Me!](#support-me)
 
 ## Credits
 - I initially got this inspiration from this [website](https://github.com/nficano/pytube) - so Pytube it is!
