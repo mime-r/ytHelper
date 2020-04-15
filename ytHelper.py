@@ -25,7 +25,7 @@ class Application(object):
   #     #   #     # #      #      #####  #      #####  Downloading
   #     #   #     # #      #      #      #      #   #  Youtube
   #     #   #     # ###### ###### #      ###### #    # Videos
-ytHelper v1.1 stable CLI
+ytHelper v1.2 stable CLI
 © Samuel Cheng 2020
 GNU AGPL v3.0
 """
@@ -56,7 +56,7 @@ INSTRUCTIONS
             print("[!] pytube not installed!")
             if input("Do you want to install pytube? (y/n)") == "y":
                 print("[*] installing pytube...")
-                status = system("pip install pytube")
+                status = system("pip install pytube3")
                 
                 if status == 0:
                     print("[*] pytube installed!")
