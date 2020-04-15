@@ -14,6 +14,9 @@ An Advanced Tool For Downloading YouTube Videos
 Ever wondered what is the fastest way to download YouTube Content without ads?
 You have come the the right place!
 
+## Warning!
+The ythelper.exe in dist does not work yet! I'm trying to make a .exe version of ytHelper but it does not work so far...
+
 ## Content
 - [Credits](#credits)
 - [Dependencies](#dependencies)
