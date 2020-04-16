@@ -19,6 +19,7 @@ The ythelper.exe in dist does not work yet! I'm trying to make a .exe version of
 
 ## Content
 - [Credits](#credits)
+- [Changelog](https://github.com/mime-r/ytHelper/blob/master/info/Changelog.md)
 - [Dependencies](#dependencies)
 - [Documentation](#documentation)
   - [Features](#features)
